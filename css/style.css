@@ -1,0 +1,21 @@
+
+
+.testo-bianco{
+    color: white;
+}
+
+.lista-prezzi {
+    padding-left: 0;
+    list-style-position: inside;
+    text-align: center;
+}
+
+video{
+    height: 30vh;
+    width: 100%;
+    object-fit: fill;
+}
+
+.lista-prezzi li{
+    color: greenyellow;
+}
